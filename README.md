@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Nikhil Chauhan
+# Hi there 👋 I'm Nikhil Chauhan
 
 🎓 Postgraduate in Statistics | 📊 Aspiring Data Analyst  
 🔍 I explore data to uncover insights using **SQL**, **Python**, **Power BI**, and **Excel**
@@ -45,6 +43,6 @@ Stay tuned — more dashboards and SQL reports coming soon!
 
 ## 📫 Let's Connect
 
-- [LinkedIn](your-link-here)
-- [GitHub](https://github.com/nikhilchauhan)
+- [LinkedIn](https://www.linkedin.com/in/nikhil-chauhan-755858371/)
+- [GitHub](https://github.com/Nikhil-DA)
 
