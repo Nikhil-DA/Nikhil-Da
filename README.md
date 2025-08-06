@@ -26,10 +26,10 @@ I'm passionate about turning raw data into clear, actionable insights. With a ba
 - 📊 **Sales Dashboard Analytics Project**  
   Data cleaning in Python + visualization in Power BI
 
-- 🏢 **SQL Data Analytics Project (EQL)**  
+- 🏢 **SQL Data Analytics Project **  
   Performance, segmentation, and part-to-whole analysis using SQL
 
-- 🧱 **End-to-End Analytics Project (Satyajit Inspired)**  
+- 🧱 **End-to-End Analytics Project**  
   Full workflow from raw Excel → Python prep → Power BI dashboard
 
 ---
