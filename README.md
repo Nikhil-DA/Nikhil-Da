@@ -31,6 +31,7 @@ Sales Analytics · Customer Behavior Analysis · Performance Reporting
 ## 🌐 Connect with Me
 
 📧 [chauhannikhil.email@gmail.com](mailto:chauhannikhil.email@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-chauhan-755858371/)
 
 ---
 
@@ -38,6 +39,7 @@ Sales Analytics · Customer Behavior Analysis · Performance Reporting
 
 💡 Building **real-world projects** to showcase skills in **data analysis, visualization, and reporting**.
 📊 Dashboards, SQL reports, and analytics case studies coming soon!
+
 
 
 
