@@ -1,6 +1,4 @@
 
-
-
 # Hi there 👋, I'm Nikhil Chauhan
 
 🎓 **Postgraduate in Statistics | Aspiring Data Analyst**
@@ -13,7 +11,8 @@
 I’m passionate about turning complex datasets into **clear, meaningful stories**.
 With a background in statistics and hands-on experience in analytics, I work on **end-to-end projects** simulating real-world business workflows.
 
-**Focus Areas:** Sales Analytics · Customer Behavior Analysis · Performance Reporting
+**Focus Areas:**
+Sales Analytics · Customer Behavior Analysis · Performance Reporting
 
 ---
 
@@ -31,7 +30,7 @@ With a background in statistics and hands-on experience in analytics, I work on 
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:chauhannikhil.email@gmail.com)
+📧 [chauhannikhil.email@gmail.com](mailto:chauhannikhil.email@gmail.com)
 
 ---
 
@@ -39,8 +38,6 @@ With a background in statistics and hands-on experience in analytics, I work on 
 
 💡 Building **real-world projects** to showcase skills in **data analysis, visualization, and reporting**.
 📊 Dashboards, SQL reports, and analytics case studies coming soon!
-
----
 
 
 
