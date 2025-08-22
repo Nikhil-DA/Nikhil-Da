@@ -11,8 +11,6 @@
 I’m passionate about turning complex datasets into **clear, meaningful stories**.
 With a background in statistics and hands-on experience in analytics, I work on **end-to-end projects** simulating real-world business workflows.
 
-**Focus Areas:**
-Sales Analytics · Customer Behavior Analysis · Performance Reporting
 
 ---
 
